@@ -6,7 +6,7 @@
     margin-bottom: -1px;
     background: linear-gradient(to bottom, map-get($brownColors, 'brown2') 76%, map-get($brownColors, 'brown1') 24%);
     @media screen and (min-width: map-get($breakpoints, 'lg')) {
-        padding-top: 28px;
+        padding-top: 20px;
     }
 }
 

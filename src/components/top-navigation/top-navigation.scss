@@ -6,7 +6,7 @@
     justify-content: space-between;
     align-items: center;
     @media screen and (min-width: map-get($breakpoints, 'lg')) {
-        padding-top: 36px;
+        padding-top: 25px;
         display: flex;
         justify-content: space-between;
         background-color: map-get($brownColors, 'brown2');
@@ -36,7 +36,7 @@
 }
 
 .address-links {
-    width: 80px;
+    width: 87px;
     display: flex; 
     justify-content: space-between;
     @media screen and (min-width: map-get($breakpoints, 'md')) {
